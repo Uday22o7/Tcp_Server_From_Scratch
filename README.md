@@ -12,7 +12,7 @@ This repository is an **educational project** created by me, referring to [Beej�
 ├── accept.c               # Minimal example showing accept usage
 ├── show_ip.c              # Hostname → IPv4/IPv6 address lookup
 ├── poll.c                 # Poll-based echo server (broadcast to all clients)
-├── poll_with_new_feature.c# Enhanced poll server tagging messages with client IP
+├── poll_with_new_feat.c   # Enhanced poll server tagging messages with client IP
 └── README.md              # This file
 ```
 
